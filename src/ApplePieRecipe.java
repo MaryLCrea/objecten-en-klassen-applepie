@@ -77,6 +77,6 @@ public class ApplePieRecipe {
     }
 
     public void bakePie(){
-        System.out.println("Zet de taart iets onder het midden van de oven. Bak de taart in 60 minuten op 170 °C (boven en onderwarmte) gaar en goudbruin.");
+        System.out.println("Zet de taart iets onder het midden van de oven. Bak de taart in 60 minuten op 170 °C (boven en onderwarmte) gaar en goudbruin en eet smakelijk.");
     }
 }
