@@ -73,10 +73,10 @@ public class ApplePieRecipe {
     }
 
     public void placingRibbons(){
-        System.out.println("Leg de stroken kruislings op de appeltaart. Met wat extra deegstroken werk je de rand rondom af. Gebruik het halve ei om de stroken in te smeren.");
+        System.out.println("Leg de stroken kruislings op de appeltaart. Met wat extra deegstroken werk je de rand rondom af. Gebruik het halve ei om de stroken in te smeren voor een mooie glans.");
     }
 
     public void bakePie(){
-        System.out.println("Zet de taart iets onder het midden van de oven. Bak de taart in 60 minuten op 170 °C (boven en onderwarmte) gaar en goudbruin.");
+        System.out.println("Zet de taart iets onder het midden van de oven. Bak de taart in 60 minuten op 170 °C (boven en onderwarmte) gaar en goudbruin en eet smakelijk.");
     }
 }
