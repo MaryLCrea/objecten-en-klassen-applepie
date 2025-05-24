@@ -73,7 +73,7 @@ public class ApplePieRecipe {
     }
 
     public void placingRibbons(){
-        System.out.println("Leg de stroken kruislings op de appeltaart. Met wat extra deegstroken werk je de rand rondom af. Gebruik het halve ei om de stroken in te smeren.");
+        System.out.println("Leg de stroken kruislings op de appeltaart. Met wat extra deegstroken werk je de rand rondom af. Gebruik het halve ei om de stroken in te smeren voor een mooie glans.");
     }
 
     public void bakePie(){
